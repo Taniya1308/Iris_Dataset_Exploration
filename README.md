@@ -8,6 +8,7 @@ This project explores the Iris dataset using Python.
 - Pandas
 - Matplotlib
 - Seaborn
+- Sci-kit learn
 
 ## Analysis Performed
 
