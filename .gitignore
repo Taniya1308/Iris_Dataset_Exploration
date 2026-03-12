@@ -1,0 +1,18 @@
+# ignore everything
+*
+
+# allow this notebook
+!5_6_Iris_Dataset_exploration.ipynb
+
+# allow README
+!README.md
+
+# allow gitignore itself
+!.gitignore
+
+
+#* → ignores all files and folders
+
+#!5_6_Iris_Dataset_exploration.ipynb → allows only the Iris notebook
+
+#!.gitignore → keeps the .gitignore file itself in the repo
